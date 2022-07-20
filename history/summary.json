@@ -5,18 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/mziyut.com",
     "slug": "mziyut-com",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 164,
     "timeDay": 188,
     "timeWeek": 177,
     "timeMonth": 164,
     "timeYear": 164,
-    "dailyMinutesDown": {
-      "2022-07-19": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
