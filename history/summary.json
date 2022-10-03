@@ -2,7 +2,7 @@
   {
     "name": "mziyut.com",
     "url": "https://mziyut.com",
-    "icon": "https://favicons.githubusercontent.com/mziyut.com",
+    "icon": "https://icons.duckduckgo.com/ip3/mziyut.com.ico",
     "slug": "mziyut-com",
     "status": "up",
     "uptime": "100.00%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 236,
-    "timeWeek": 210,
-    "timeMonth": 176,
+    "timeDay": 155,
+    "timeWeek": 197,
+    "timeMonth": 175,
     "timeYear": 178,
     "dailyMinutesDown": {}
   }
