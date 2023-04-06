@@ -5,6 +5,8 @@ repo: upptime
 sites:
   - name: mziyut.com
     url: https://mziyut.com
+  - name: slides.mziyut.com
+    url: https://slides.mziyut.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
