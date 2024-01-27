@@ -4,7 +4,7 @@
     "url": "https://mziyut.com",
     "icon": "https://icons.duckduckgo.com/ip3/mziyut.com.ico",
     "slug": "mziyut-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 917,
     "timeYear": 391,
     "dailyMinutesDown": {
+      "2024-01-27": 0,
       "2023-12-19": 117,
       "2023-12-18": 233,
       "2023-12-17": 181,
