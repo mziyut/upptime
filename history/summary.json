@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mziyut.com.ico",
     "slug": "mziyut-com",
     "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "92.58%",
-    "uptimeWeek": "92.82%",
-    "uptimeMonth": "97.65%",
-    "uptimeYear": "99.19%",
+    "uptime": "99.49%",
+    "uptimeDay": "93.00%",
+    "uptimeWeek": "93.12%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "99.18%",
     "time": 211,
-    "timeDay": 105,
+    "timeDay": 104,
     "timeWeek": 112,
     "timeMonth": 133,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2024-02-15": 107,
+      "2024-02-15": 101,
       "2024-02-14": 65,
       "2024-02-13": 84,
       "2024-02-12": 137,
@@ -45,7 +45,7 @@
       "2023-12-04": 175,
       "2023-12-03": 124,
       "2023-12-02": 119,
-      "2023-12-01": 118
+      "2023-12-01": 177
     }
   },
   {
