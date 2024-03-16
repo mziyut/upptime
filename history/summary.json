@@ -52,19 +52,19 @@
     "url": "https://slides.mziyut.com",
     "icon": "https://icons.duckduckgo.com/ip3/slides.mziyut.com.ico",
     "slug": "slides-mziyut-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 144,
-    "timeWeek": 143,
-    "timeMonth": 146,
+    "timeDay": 141,
+    "timeWeek": 142,
+    "timeMonth": 145,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 7
     }
   },
   {
