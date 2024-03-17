@@ -8,12 +8,12 @@
     "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.66%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.25%",
     "time": 200,
-    "timeDay": 197,
-    "timeWeek": 171,
-    "timeMonth": 124,
+    "timeDay": 93,
+    "timeWeek": 160,
+    "timeMonth": 122,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2024-02-18": 29,
@@ -54,18 +54,16 @@
     "slug": "slides-mziyut-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 152,
-    "timeWeek": 147,
-    "timeMonth": 147,
+    "timeDay": 154,
+    "timeWeek": 145,
+    "timeMonth": 145,
     "timeYear": 171,
-    "dailyMinutesDown": {
-      "2024-03-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mziyut.hatenadiary.com",
@@ -78,11 +76,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 776,
-    "timeDay": 810,
-    "timeWeek": 742,
-    "timeMonth": 776,
-    "timeYear": 776,
+    "time": 773,
+    "timeDay": 690,
+    "timeWeek": 731,
+    "timeMonth": 773,
+    "timeYear": 773,
     "dailyMinutesDown": {}
   }
 ]
