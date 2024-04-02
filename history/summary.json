@@ -52,18 +52,20 @@
     "url": "https://slides.mziyut.com",
     "icon": "https://icons.duckduckgo.com/ip3/slides.mziyut.com.ico",
     "slug": "slides-mziyut-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 286,
-    "timeWeek": 218,
-    "timeMonth": 159,
-    "timeYear": 171,
-    "dailyMinutesDown": {}
+    "time": 179,
+    "timeDay": 1676,
+    "timeWeek": 574,
+    "timeMonth": 240,
+    "timeYear": 179,
+    "dailyMinutesDown": {
+      "2024-04-02": 0
+    }
   },
   {
     "name": "mziyut.hatenadiary.com",
