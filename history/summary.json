@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mziyut.com.ico",
     "slug": "mziyut-com",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -70,17 +70,19 @@
     "url": "https://mziyut.hatenadiary.com",
     "icon": "https://icons.duckduckgo.com/ip3/mziyut.hatenadiary.com.ico",
     "slug": "mziyut-hatenadiary-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 770,
-    "timeDay": 579,
-    "timeWeek": 740,
-    "timeMonth": 753,
-    "timeYear": 770,
-    "dailyMinutesDown": {}
+    "time": 769,
+    "timeDay": 557,
+    "timeWeek": 714,
+    "timeMonth": 746,
+    "timeYear": 769,
+    "dailyMinutesDown": {
+      "2024-08-20": 0
+    }
   }
 ]
