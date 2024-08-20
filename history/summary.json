@@ -70,19 +70,19 @@
     "url": "https://mziyut.hatenadiary.com",
     "icon": "https://icons.duckduckgo.com/ip3/mziyut.hatenadiary.com.ico",
     "slug": "mziyut-hatenadiary-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 769,
-    "timeDay": 557,
-    "timeWeek": 714,
-    "timeMonth": 746,
+    "timeDay": 651,
+    "timeWeek": 728,
+    "timeMonth": 749,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2024-08-20": 0
+      "2024-08-20": 42
     }
   }
 ]
