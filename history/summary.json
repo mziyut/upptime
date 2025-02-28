@@ -40,11 +40,11 @@
     "url": "https://mziyut.hatenadiary.com",
     "icon": "https://icons.duckduckgo.com/ip3/mziyut.hatenadiary.com.ico",
     "slug": "mziyut-hatenadiary-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 803,
     "timeDay": 4539,
@@ -52,7 +52,7 @@
     "timeMonth": 1028,
     "timeYear": 803,
     "dailyMinutesDown": {
-      "2025-02-28": 28,
+      "2025-02-28": 18,
       "2024-11-08": 30,
       "2024-08-20": 42
     }
