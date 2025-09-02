@@ -6,9 +6,9 @@
     "slug": "mziyut-com",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 166,
     "timeDay": 227,
@@ -16,7 +16,6 @@
     "timeMonth": 195,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-09-01": 6,
       "2025-08-29": 15,
       "2025-08-26": 26,
       "2025-04-05": 38
@@ -29,9 +28,9 @@
     "slug": "slides-mziyut-com",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 151,
     "timeDay": 137,
@@ -39,7 +38,6 @@
     "timeMonth": 151,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2025-09-01": 6,
       "2025-08-26": 26,
       "2025-04-05": 38,
       "2025-04-03": 23
