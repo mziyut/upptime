@@ -168,20 +168,21 @@
     "url": "https://mziyut.hatenadiary.com",
     "icon": "https://icons.duckduckgo.com/ip3/mziyut.hatenadiary.com.ico",
     "slug": "mziyut-hatenadiary-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 637,
-    "timeDay": 770,
-    "timeWeek": 683,
-    "timeMonth": 606,
-    "timeYear": 627,
+    "uptimeYear": "99.98%",
+    "time": 695,
+    "timeDay": 15459,
+    "timeWeek": 4366,
+    "timeMonth": 1559,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2025-09-02": 35,
-      "2025-10-27": 44
+      "2025-10-27": 44,
+      "2026-07-16": 0
     }
   }
 ]
