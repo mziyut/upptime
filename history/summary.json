@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mziyut.com.ico",
     "slug": "mziyut-com",
     "status": "down",
-    "uptime": "92.69%",
-    "uptimeDay": "87.04%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "69.37%",
-    "time": 251,
-    "timeDay": 46,
-    "timeWeek": 314,
-    "timeMonth": 286,
-    "timeYear": 215,
+    "uptime": "92.63%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "83.86%",
+    "uptimeMonth": "96.29%",
+    "uptimeYear": "69.09%",
+    "time": 250,
+    "timeDay": 107,
+    "timeWeek": 283,
+    "timeMonth": 280,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2026-01-05": 38,
       "2026-01-04": 2,
@@ -131,7 +131,8 @@
       "2026-01-16": 1440,
       "2026-01-15": 1440,
       "2026-01-14": 872,
-      "2026-10-21": 187
+      "2026-10-22": 257,
+      "2026-10-21": 1370
     }
   },
   {
@@ -146,10 +147,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 183,
-    "timeDay": 255,
-    "timeWeek": 295,
-    "timeMonth": 248,
-    "timeYear": 180,
+    "timeDay": 217,
+    "timeWeek": 256,
+    "timeMonth": 250,
+    "timeYear": 179,
     "dailyMinutesDown": {
       "2026-01-05": 38,
       "2026-01-04": 2
@@ -167,10 +168,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 739,
-    "timeDay": 1010,
-    "timeWeek": 895,
-    "timeMonth": 918,
-    "timeYear": 741,
+    "timeDay": 849,
+    "timeWeek": 899,
+    "timeMonth": 919,
+    "timeYear": 742,
     "dailyMinutesDown": {
       "2025-10-27": 44,
       "2026-07-16": 176
